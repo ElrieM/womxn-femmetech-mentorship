@@ -44,3 +44,18 @@ body, html {
     color: white;
   }
   
+
+  #mentor-1 {
+    background-image: url("../assets/Images/mentor-1.jpg");
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin-bottom: 1rem;
+  }
+
+  .mentor-text {
+    text-align: center;
+  }
